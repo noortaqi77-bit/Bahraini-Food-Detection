@@ -3,11 +3,14 @@ from ultralytics import YOLO
 from PIL import Image
 import numpy as np
 
+
+
 st.title("Bahraini Traditional Food")
 
+# model
 model = YOLO("best.pt")
-
 img_file = st.file_uploader("Or upload a photo", type=["jpg", "png"])
+
 
 if img_file is not None:
     img = Image.open(img_file)
