@@ -1,2 +1,5 @@
 streamlit
 ultralytics
+PIL 
+numpy
+
