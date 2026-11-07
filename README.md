@@ -8,7 +8,7 @@ App : https://bahraini-food-detection.streamlit.app/
 
 
 
-# Classes
+### Classes
 Arabic coffee, Balaleet, Chicken Majboos, Halwa, Harees, Khanfaroosh, Meat Majboos, Tikka, Zalabiya, Karak
 
 
