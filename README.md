@@ -1,11 +1,10 @@
 
-Bahraini Food Detection
-
-
+# Bahraini Food Detection
+An object-detection project that recognizes traditional Bahraini foods and drinks in images.
 App : https://bahraini-food-detection.streamlit.app/
 
 ## 1. Problem statement 
-
+Tourists visiting Bahrain often cannot identify the local dishes they encounter at restaurants, food markets and traditional gatherings. Searching online or asking someone what the dishes are is slow and inconvenient.
 
 
 ### Classes
@@ -65,4 +64,5 @@ Tikka and Khanfaroosh have many more objects because they were annotated piece b
 | Zalabiya | 0.968 | 1.00 | 0.995 | 0.741 |
 | Karak | 0.765 | 0.55 | 0.859 | 0.463 |
 
+### Error Analysis 
 
