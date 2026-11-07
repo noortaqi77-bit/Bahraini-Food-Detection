@@ -1,6 +1,8 @@
 
 # Bahraini Food Detection
 An object-detection project that recognizes traditional Bahraini foods and drinks in images.
+
+
 App : https://bahraini-food-detection.streamlit.app/
 
 ## 1. Problem statement 
